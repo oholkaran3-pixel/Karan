@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karan Ohol  
 
-🎓 I'm a **2nd Year B.Tech Student in Artificial Intelligence & Data Science (AI & DS)**  
+🎓 I'm a **2nd Year BSC Student in Artificial Intelligence & Data Science (AI & DS)**  
 💻 Passionate about **Machine Learning, Data Analysis, and Embedded Systems**  
 ⚙️ Skilled in **Python, C, and Arduino Programming**
 
